@@ -1,3 +1,11 @@
-h1 {color: blue}
+h1,h2,h3 {color: blue;}
 
-p {color: purple}
+p {color: green}
+#hope {font-style: italic; font-size: 50px;}
+
+/* A class to add styling to h1 and paragraph in 
+to mentor */
+.love {
+    border: groove yellow 3px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
